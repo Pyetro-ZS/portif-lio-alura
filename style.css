@@ -25,7 +25,6 @@ a, .btn-link:hover {
     color: var(--cor-principal)
 }
 
-a:hover{
+a:hover {
     color: var(--cor-destaque);
 }
-
